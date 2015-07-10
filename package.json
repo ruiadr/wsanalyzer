@@ -1,0 +1,41 @@
+{
+  "name": "wsanalyzer",
+  "version": "0.0.1",
+  "description": "Analyseur en temps réel de sites internet.",
+  "scripts": {
+    "test": "mocha"
+  },
+  "main": "index.js",
+  "keywords": [
+    "wsanalyzer",
+    "website",
+    "analyzer",
+    "utility",
+    "module"
+  ],
+  "author": "Adrien RUIZ",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ruiadr/wsanalyzer"
+  },
+  "bugs": {
+    "url": "https://github.com/ruiadr/wsanalyzer/issues"
+  },
+  "engines": {
+    "node": ">=0.10"
+  },
+  "bin": {
+    "wsanalyzer": "wsanalyzer.js"
+  },
+  "dependencies": {
+    "async": "^1.2.1",
+    "bash-color": "0.0.3",
+    "extend": "^2.0.1",
+    "node-constants": "0.0.2",
+    "random-js": "^1.0.4",
+    "request": "^2.58.0",
+    "shuffle-array": "^0.1.0",
+    "xml2js": "^0.4.9"
+  }
+}
