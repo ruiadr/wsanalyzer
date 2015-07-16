@@ -29,7 +29,7 @@ Sitemap.prototype.getByIndex = function (index) {
 
 /**
  * La fonction de retour "success" passe en paramètre un objet qui
- * contient les propriétés suivante:
+ * contient les propriétés suivantes:
  *     notice  : tableau contenant les erreurs de type "Information".
  *     warning : tableau contenant les erreurs de type "Avertissement".
  *     error   : tableau contenant les erreurs de type "Fatale".

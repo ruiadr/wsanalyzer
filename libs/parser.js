@@ -42,7 +42,7 @@ var getContents = function (options) {
 
 /**
  * La fonction de retour "success" passe en paramètre un objet qui
- * contient les propriétés suivante:
+ * contient les propriétés suivantes:
  *     result : tableau contenant des objets de la forme
  *              {
  *                  uagent   : <String>,
@@ -122,7 +122,7 @@ module.exports.getRobots = function (host, callback) {
 
 /**
  * La fonction de retour "success" passe en paramètre un objet qui
- * contient les propriétés suivante:
+ * contient les propriétés suivantes:
  *     result : tableau contenant les URLS du sitemap, les valeurs du tableau
  *              sont des objets de la forme
  *              {
@@ -185,7 +185,7 @@ module.exports.getContentCheck = function () {
 
 /**
  * La fonction de retour "success" passe en paramètre un objet qui
- * contient les propriétés suivante:
+ * contient les propriétés suivantes:
  *     result : objet de la forme
  *              {
  *                  title       : <String|null>,

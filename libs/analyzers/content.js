@@ -40,7 +40,7 @@ module.exports.getCheck = function () {
 
 /**
  * La fonction de retour "success" passe en paramètre un objet qui
- * contient les propriétés suivante:
+ * contient les propriétés suivantes:
  *     href    : URL de la page analysée.
  *     notice  : tableau contenant les erreurs de type "Information".
  *     warning : tableau contenant les erreurs de type "Avertissement".

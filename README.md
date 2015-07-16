@@ -92,7 +92,7 @@ Feuille de route
 
  - [**Août 2015**] Mise en place d'une IHM
      - Framework WEB pressenti: [ExpressJS](http://expressjs.com/)
-     - Framework CSS pressenti: [Material Design](https://www.google.com/design/spec/material-design/introduction.html)
+     - Framework CSS pressenti: [Materialize](http://materializecss.com/)
  - [**Septembre 2015**] Création de projets d'analyses (en ligne de commande et IHM)
      - Un projet par site (par domaine)
      - Historique des analyses réalisées

@@ -179,7 +179,6 @@ bot.on ('success', function (res) {
                 console.log ();
                 
                 var resObject = res.result.result,
-                    content   = null,
                     str       = null;
                 
                 for (var prop in resObject) {
