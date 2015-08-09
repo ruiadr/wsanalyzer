@@ -90,17 +90,17 @@ Lancer les tests unitaires:
 Feuille de route
 ----------------
 
- - [**Août 2015**] Mise en place d'une IHM
+ - **Mise en place d'une IHM**
      - Framework WEB pressenti: [ExpressJS](http://expressjs.com/)
      - Framework CSS pressenti: [Materialize](http://materializecss.com/)
- - [**Septembre 2015**] Création de projets d'analyses (en ligne de commande et IHM)
+ - **Création de projets d'analyses (en ligne de commande et IHM)**
      - Un projet par site (par domaine)
      - Historique des analyses réalisées
      - Paramétrage comportemental du robot
- - [**Octobre 2015**] Connexion aux APIs de Google (en ligne de commande et IHM)
+ - **Connexion aux APIs de Google (en ligne de commande et IHM)**
      - Connexion à GoogleAnalytics pour affiner les conclusions d'analyses
      - Connexion à WebMasterTools pour affiner les conclusions d'analyses
- - [**Novembre 2015**] Mise en place de rapports automatisés par email (en ligne de commande et IHM)
+ - **Mise en place de rapports automatisés par email (en ligne de commande et IHM)**
      - Pressenti: les rapports seront envoyés par [Mandrill](https://www.mandrill.com/)
 
 ----------
