@@ -100,6 +100,10 @@ Bot.prototype.run = function (host, options) {
             self.emit ('before', resultSitemapList);
             
             async.eachSeries (list, function (entrySitemap, callbackSitemap) {
+                if (entrySitemap.host === null) {
+                    entrySitemap.host = host;
+                }
+                
                 var resultSitemap = {step: 3, action: 'sitemap', value: entrySitemap};
                 self.emit ('before', resultSitemap);
                 
